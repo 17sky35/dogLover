@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 고양이 꼬리
+  title: 고양이 몸
   subtitle: 눈이 맑다
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
   
